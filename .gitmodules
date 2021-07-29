@@ -1,6 +1,6 @@
 [submodule "crazyflie-firmware"]
 	path = crazyflie-firmware
-	url = https://github.com/bitcraze/crazyflie-firmware.git
+	url = https://github.com/TitouanTyack/crazyflie-firmware.git
 	branch = master
 [submodule "crazyflie-lib-python"]
 	path = crazyflie-lib-python
